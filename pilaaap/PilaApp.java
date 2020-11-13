@@ -17,12 +17,15 @@ public class PilaApp {
              switch (opc){
                  case 1: 
                      obj.push();
+                     System.out.println("");
                      break;
                  case 2:
                      obj.pop();
+                     System.out.println("");
                      break;
                  case 3:
                      obj.MostrarPila();
+                     System.out.println("");
                      break;
                  case 4: 
                      break;
