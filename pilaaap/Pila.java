@@ -14,7 +14,7 @@ public class Pila {
              System.out.println("La pila esta llena");
          }else{
              cima+=1;
-             System.out.println("Ingrese el dato: ");
+             System.out.print("Ingrese el dato: ");
              pilaNumerica[cima]=leer.next();
          }
      }
